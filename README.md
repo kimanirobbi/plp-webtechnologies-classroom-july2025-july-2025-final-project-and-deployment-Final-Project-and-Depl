@@ -28,6 +28,7 @@ skillswap-website/
 └── README.md                  # Project documentation
 Deployment
 The website is deployed and accessible at:
+https://plp-webtechnologies-classroom-july2-silk.vercel.app/
 
 
  
